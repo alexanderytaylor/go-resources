@@ -1,6 +1,6 @@
 
 - [Cloud Bookmark Manager API](https://github.com/haron1996/Cloud-Bookmark-Manager-API)
-- [Golang Database Library ORM Examples](https://github.com/gmhafiz/golang-database-library-orm-example)
+- [Golang Database Library ORM Examples](https://github.com/gmhafiz/golang-database-library-orm-example) [Article](https://www.gmhafiz.com/blog/golang-database-library-orm-example-intro/)
 
 
 
