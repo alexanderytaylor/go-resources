@@ -1,2 +1,4 @@
 
-sqlc [website](https://sqlc.dev/) [github](https://github.com/sqlc-dev/sqlc)
+#### sqlc - [site](https://sqlc.dev/), [gh](https://github.com/sqlc-dev/sqlc) - Genereate type-safe code form SQL
+
+sqlc - [site](https://sqlc.dev/), [gh](https://github.com/sqlc-dev/sqlc) - Genereate type-safe code form SQL
