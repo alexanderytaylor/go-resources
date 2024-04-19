@@ -1,4 +1,9 @@
 
+- [Cloud Bookmark Manager API](https://github.com/haron1996/Cloud-Bookmark-Manager-API)
+- [Golang Database Library ORM Examples](https://github.com/gmhafiz/golang-database-library-orm-example)
+
+
+
 ## Tools
 
 #### sqlc - [site](https://sqlc.dev/), [gh](https://github.com/sqlc-dev/sqlc) - Genereate type-safe code form SQL
