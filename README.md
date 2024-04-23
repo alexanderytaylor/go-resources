@@ -1,3 +1,7 @@
+## Repos
+
+- [Awesome Go ORMS](https://github.com/d-tsuji/awesome-go-orms) - Lists the top Go ORMS by # github stars 
+
 ## Tutorials
 
 - [Cloud Bookmark Manager API](https://github.com/haron1996/Cloud-Bookmark-Manager-API)
