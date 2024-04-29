@@ -12,6 +12,7 @@
 - [How I write HTTP services in Go after 13 years
 ](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 https://dev.to/andyhaskell/build-a-web-api-client-in-go-part-1-connecting-to-the-api-5a4o
+- [An API client in Go](https://bitfieldconsulting.com/golang/api-client)
 
 ## Books
 - [Let's Go! A start-to-finish guide to building web apps with Go](https://lets-go.alexedwards.net/)
