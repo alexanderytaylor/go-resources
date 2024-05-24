@@ -14,6 +14,7 @@
 https://dev.to/andyhaskell/build-a-web-api-client-in-go-part-1-connecting-to-the-api-5a4o
 - [An API client in Go](https://bitfieldconsulting.com/golang/api-client)
 - [Practical Go - David Cheney](https://dave.cheney.net/practical-go)
+- [Go Proverbs](https://go-proverbs.github.io/)
 
 ## Books
 - [Let's Go! A start-to-finish guide to building web apps with Go](https://lets-go.alexedwards.net/)
