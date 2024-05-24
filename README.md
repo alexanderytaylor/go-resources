@@ -13,10 +13,16 @@
 ](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 https://dev.to/andyhaskell/build-a-web-api-client-in-go-part-1-connecting-to-the-api-5a4o
 - [An API client in Go](https://bitfieldconsulting.com/golang/api-client)
+- [Practical Go - David Cheney](https://dave.cheney.net/practical-go)
 
 ## Books
 - [Let's Go! A start-to-finish guide to building web apps with Go](https://lets-go.alexedwards.net/)
 - [Let's Go Further! Advanced patterns for building APIs and web applications in Go](https://lets-go-further.alexedwards.net/#packages)
+
+## Architecture
+
+- [Reddit post on Architecture best practices](https://www.reddit.com/r/golang/comments/t9no58/clean_architecture_best_practices_in_go/)
+- []()
 
 ## Tools
 
